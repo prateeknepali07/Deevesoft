@@ -1,0 +1,10 @@
+#buttongraph {
+  background: red;
+  text-align: right;
+  display: inline-block;
+  font-family: "montserrate";
+  width: 100%;
+  margin-right: 50%;
+  padding: 20px;
+  position: right;
+}
